@@ -4,7 +4,7 @@ Manage label based on assignee changes
 
 ![382283423984](https://github.com/stavares843/label-assignee/assets/29093946/7befc83b-9fcf-43e6-a5ab-c5a70e5d24ae)
 
-You can change the label from "ASSIGNED" to whatever label you prefer.
+You can change the label from `ASSIGNED` to whatever label name you prefer.
 
 If you add a label with emojis, you need to add `assigned%20%3Acomputer%3A` in the action, such as
 
