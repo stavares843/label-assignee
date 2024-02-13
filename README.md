@@ -1,6 +1,7 @@
 # label-assignee
 Manage label based on assignee changes
 
+
 ![382283423984](https://github.com/stavares843/label-assignee/assets/29093946/7befc83b-9fcf-43e6-a5ab-c5a70e5d24ae)
 
 You can change the label from "ASSIGNED" to whatever label you prefer.
@@ -15,3 +16,6 @@ This Github action adds the label to the ticket when there's an assignee and rem
 
 https://github.com/stavares843/label-assignee/assets/29093946/fd7e7fdb-a0d2-4360-ac93-bdec13aa5335
 
+<p align="center">
+   <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" /></a>
+</p>
