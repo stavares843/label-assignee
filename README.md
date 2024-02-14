@@ -1,6 +1,6 @@
 # label-assignee
-Manage label based on assignee changes
 
+Github Action to manage labels based on assignee changes
 
 ![382283423984](https://github.com/stavares843/label-assignee/assets/29093946/7befc83b-9fcf-43e6-a5ab-c5a70e5d24ae)
 
